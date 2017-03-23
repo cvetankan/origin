@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Promena eden 
+=======
+nov file 
+>>>>>>> 3c79e56509761eac7e6c222817424b7fa625fd2b
